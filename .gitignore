@@ -1,0 +1,17 @@
+__tests__
+android
+App.js
+app.json
+babel.config.js
+Gemfile
+Gemfile.lock
+index.js
+ios
+metro.config.js
+node_modules
+package-lock.json
+package.json
+react-native.config.js
+README.md
+src
+node_modules
